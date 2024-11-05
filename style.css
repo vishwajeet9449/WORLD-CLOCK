@@ -13,9 +13,13 @@ nav {
     font-size: 30px;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
     padding-left: 12px;
 }
 
 nav ul {
     list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
 }
